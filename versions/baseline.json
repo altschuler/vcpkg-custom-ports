@@ -1,3 +1,5 @@
 {
-  "default": {}
+  "default": {
+	  "imgui": {"baseline": "1.86"}
+  }
 }
